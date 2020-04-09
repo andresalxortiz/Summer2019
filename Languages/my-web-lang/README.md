@@ -1,8 +1,8 @@
-# Web Katas
+# Web Katas - Individual training exercises for web development
 
 ## Summary
 
-Katas that teach basic web design using HTML and CSS in Racket.
+Katas with the intent of teaching users basic web design using HTML and CSS in Racket.
 
 ## Structure
 
